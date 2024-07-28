@@ -1,7 +1,5 @@
 
 
-<video src="https://blog.minia.us.kg/img/cssp.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
 
 # minitu
 ## 我的图片
