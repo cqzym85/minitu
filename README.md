@@ -1,24 +1,6 @@
 
-<div class="video-container">
-<video src="https://blog.minia.us.kg/img/cssp.mp4" controls="controls">您的浏览器不支持播放该视频！</video>
-scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
 
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
+<video src="https://blog.minia.us.kg/img/cssp.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 # minitu
